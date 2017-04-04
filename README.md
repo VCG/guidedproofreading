@@ -179,6 +179,6 @@ gp.Util.show(images, probs, golds, segmentations)
 
 ```python
 #
-# TODO!
+# TODO! (see http://github.com/VCG/gp for all the stuff but it needs some cleanup!)
 #
 ```
