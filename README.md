@@ -24,14 +24,6 @@
 import gp
 ```
 
-    /home/d/nolearn/local/lib/python2.7/site-packages/matplotlib/font_manager.py:273: UserWarning: Matplotlib is building the font cache using fc-list. This may take a moment.
-      warnings.warn('Matplotlib is building the font cache using fc-list. This may take a moment.')
-    Using gpu device 0: GeForce GTX TITAN (CNMeM is disabled, CuDNN 4007)
-    /home/d/nolearn/local/lib/python2.7/site-packages/theano/tensor/signal/downsample.py:6: UserWarning: downsample module has been moved to the theano.tensor.signal.pool module.
-      "downsample module has been moved to the theano.tensor.signal.pool module.")
-
-
-
 ```python
 #
 # LOAD GP MODEL
